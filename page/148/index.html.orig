@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Created in Birmingham - arts, culture and creativity</title>
+
+	  <meta name="viewport" content="width=device-width" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Linking up Birmingham&#039;s artistic and creative community"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.createdinbirmingham.com/page/148/" />
+<link rel="prev" href="http://www.createdinbirmingham.com/page/147/" />
+<link rel="next" href="http://www.createdinbirmingham.com/page/149/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Created in Birmingham - arts, culture and creativity" />
+<meta property="og:description" content="Linking up Birmingham&#039;s artistic and creative community" />
+<meta property="og:url" content="http://www.createdinbirmingham.com/page/148/" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.createdinbirmingham.com\/","name":"","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.createdinbirmingham.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://www.createdinbirmingham.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://www.createdinbirmingham.com/comments/feed/" />
+<link rel="pingback" href="http://www.createdinbirmingham.com/xmlrpc.php" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-lightbox-2.min.css-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='omega-style-css'  href='http://www.createdinbirmingham.com/wp-content/themes/lifestyle/style.css?ver=53ecaac7b5089c977c33c8249976dbba' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-main-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-custom-css'  href='http://www.createdinbirmingham.com/wp-content/uploads/master-slider/custom.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/themes/lifestyle/js/tinynav.js?ver=53ecaac7b5089c977c33c8249976dbba'></script>
+<link rel='https://api.w.org/' href='http://www.createdinbirmingham.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.createdinbirmingham.com/xmlrpc.php?rsd" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2292119-9']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script>var ms_grabbing_curosr = 'http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 2.7.1 - Responsive Touch Image Slider | www.avt.li/msf" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:"4958f2a7-30e6-43bc-b6d4-d1b8fee52e13"});</script><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.createdinbirmingham.com/?wordfence_logHuman=1&hid=75D199F81E6F8C4C4A447BF6930C3B3B');
+</script>	<!--[if lt IE 9]>
+	<script src="http://www.createdinbirmingham.com/wp-content/themes/omega/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+<style type="text/css" id="custom-colors-css">h1.site-title a, .site-description, .entry-meta { color: #232323; } .tinynav, input[type="button"], input[type="reset"], input[type="submit"] { background-color: #232323; } .site-inner .entry-meta a, .site-inner .entry-content a, .site-inner .sidebar a { color: #858585; }</style>
+
+<style type="text/css" id="custom-css"></style>
+<link rel="icon" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-270x270.jpg" />
+</head>
+<body class="wordpress ltr child-theme y2019 m03 d04 h10 monday logged-out custom-header plural home blog paged paged-148 _masterslider _ms_version_2.7.1 group-blog custom-colors" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="site-container">
+	<header id="header" class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"></div></div></header><!-- .site-header --><nav id="navigation" class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">	
+	<div class="wrap"><a href="#" id="menu-icon" class="menu-icon"><span></span></a><ul id="menu-2013-menu" class="menu omega-nav-menu menu-primary"><li id="menu-item-19524" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home first menu-item-19524"><a href="http://www.createdinbirmingham.com">Home</a></li>
+<li id="menu-item-15908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15908"><a href="http://www.createdinbirmingham.com/about/">About</a></li>
+<li id="menu-item-15907" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-15907"><a href="http://www.createdinbirmingham.com/contact/">Contact</a></li>
+</ul></div></nav><!-- .nav-primary -->	<div class="banner">
+		<div class="wrap">
+			<img class="header-image" src="http://www.createdinbirmingham.com/wp-content/uploads/2015-09-28-CiB-web-banner2.png" alt="" />		</div><!-- .wrap -->
+  	</div><!-- .banner -->
+	<div class="site-inner">
+		<div class="wrap"><main class="content" id="content" role="main" itemprop="mainEntityOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+	<article id="post-8408" class="entry post publish author-chrisunitt post-8408 format-standard category-design post_tag-dribble" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/10/birmingham-dribbblers/" rel="bookmark">Birmingham Dribbblers</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-10T15:57:02+00:00" itemprop="datePublished" title="Friday, December 10, 2010, 3:57 pm">December 10, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>I mentioned Dribbble in a talk recently. It&#8217;s a site for designers, developers and others to show off small screenshots of the designs and applications they’re working on. Nice idea, terrible name. Here are the Birmingham people.</p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/design/" rel="tag">Creative</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/dribble/" rel="tag">dribble</a></span>		
+</div></footer></div></article><article id="post-8411" class="entry post publish author-alexjones post-8411 format-standard category-festivals post_tag-brightspace post_tag-creative-careers-festival post_tag-mac" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/10/creative-careers-festival/" rel="bookmark">Creative Careers Festival</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-10T12:45:12+00:00" itemprop="datePublished" title="Friday, December 10, 2010, 12:45 pm">December 10, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>Brightspace in association with mac are holding a two day Creative Careers Festival for 13-18 year olds on 28 &amp; 29 January 2011. Covering everything from fashion, photography, architecture and design to filmmaking, music, dance and theatre, the festival will allow students and teachers to explore creative careers and the routes into them. Students will &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/10/creative-careers-festival/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/festivals/" rel="tag">Festivals</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/brightspace/" rel="tag">brightspace</a>, <a href="http://www.createdinbirmingham.com/tag/creative-careers-festival/" rel="tag">creative careers festival</a>, <a href="http://www.createdinbirmingham.com/tag/mac/" rel="tag">mac</a></span>		
+</div></footer></div></article><article id="post-8466" class="entry post publish author-alexjones post-8466 format-standard category-literature post_tag-library-of-birmingham" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/10/inside-the-library-of-birmingham/" rel="bookmark">Inside the Library of Birmingham</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-10T08:58:00+00:00" itemprop="datePublished" title="Friday, December 10, 2010, 8:58 am">December 10, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>New design images of the Library of Birmingham have been released, showing the first look at what we can expect from the central rotunda (top) and the outdoor amphitheatre. Operating as a main focal point of the building, the central rotunda features a breathtaking wall of books across several floors, with the image showing an &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/10/inside-the-library-of-birmingham/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/literature/" rel="tag">Literature</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/library-of-birmingham/" rel="tag">library of birmingham</a></span>		
+</div></footer></div></article><article id="post-8386" class="entry post publish author-alexjones post-8386 format-standard category-performing-arts post_tag-comedy-cabaret post_tag-funbags post_tag-jingle-bells post_tag-notes post_tag-rhymes post_tag-rogueplay" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/09/rogue-plays-jingle-bells/" rel="bookmark">Rogue Play’s Jingle Bells</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-09T12:55:16+00:00" itemprop="datePublished" title="Thursday, December 9, 2010, 12:55 pm">December 9, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>RoguePlay are drawing 2010 to a close with &#8220;an awkward gathering of the RoguePlay family&#8221;, including all their regular events Rhymes, Notes and our Comedy Cabaret troupe, Funbags. Jingle Bells is taking place on Saturday 11 December from 7pm at New Life Baptist Church, Kings Heath High Street. Entertainment will be provided by a variety &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/09/rogue-plays-jingle-bells/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/performing-arts/" rel="tag">Performing Arts</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/comedy-cabaret/" rel="tag">comedy cabaret</a>, <a href="http://www.createdinbirmingham.com/tag/funbags/" rel="tag">funbags</a>, <a href="http://www.createdinbirmingham.com/tag/jingle-bells/" rel="tag">jingle bells</a>, <a href="http://www.createdinbirmingham.com/tag/notes/" rel="tag">notes</a>, <a href="http://www.createdinbirmingham.com/tag/rhymes/" rel="tag">rhymes</a>, <a href="http://www.createdinbirmingham.com/tag/rogueplay/" rel="tag">rogueplay</a></span>		
+</div></footer></div></article><article id="post-8423" class="entry post publish author-alexjones post-8423 format-standard category-design post_tag-abigail-borg post_tag-christmas-cards post_tag-claire-hartley post_tag-design-2 post_tag-emma-hardicker post_tag-jo-ruth post_tag-night-owl post_tag-ruth-green post_tag-stephie-says" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/09/creative-christmas-cards-2/" rel="bookmark">Creative Christmas Cards</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-09T08:55:03+00:00" itemprop="datePublished" title="Thursday, December 9, 2010, 8:55 am">December 9, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>Highstreet stores may be filling their shelves with mass produced Christmas cards at the moment, but some of our favourite Birmingham based designers have been busy bees making their own festive designs. Claire Hartley&#8216;s hand illustrated cards are priced at £6 for a pack of three different designs. Abigail Borg&#8216;s letterpress cards &#8211; &#8216;Daphne&#8217;s Pinecone&#8217; &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/09/creative-christmas-cards-2/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/design/" rel="tag">Creative</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/abigail-borg/" rel="tag">abigail borg</a>, <a href="http://www.createdinbirmingham.com/tag/christmas-cards/" rel="tag">christmas cards</a>, <a href="http://www.createdinbirmingham.com/tag/claire-hartley/" rel="tag">claire hartley</a>, <a href="http://www.createdinbirmingham.com/tag/design-2/" rel="tag">design</a>, <a href="http://www.createdinbirmingham.com/tag/emma-hardicker/" rel="tag">emma hardicker</a>, <a href="http://www.createdinbirmingham.com/tag/jo-ruth/" rel="tag">jo ruth</a>, <a href="http://www.createdinbirmingham.com/tag/night-owl/" rel="tag">night owl</a>, <a href="http://www.createdinbirmingham.com/tag/ruth-green/" rel="tag">ruth green</a>, <a href="http://www.createdinbirmingham.com/tag/stephie-says/" rel="tag">stephie says</a></span>		
+</div></footer></div></article><article id="post-8382" class="entry post publish author-alexjones post-8382 format-standard category-misc post_tag-as-we-dream post_tag-charis-mcnelvin post_tag-handsworth post_tag-hybrid-consulting post_tag-inhabit post_tag-vacant-spaces post_tag-vibrant-places" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/08/as-we-dream/" rel="bookmark">As We Dream</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-08T12:55:13+00:00" itemprop="datePublished" title="Wednesday, December 8, 2010, 12:55 pm">December 8, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>&#8216;As we dream&#8217; is the latest project to utilise Inhabit&#8216;s Handsworth based tearoom as part of their &#8216;Vacant Spaces, Vibrant Places&#8217; programme. The project, by Charis McNelvin, opens today, and explores well being and mental health through a site specific installation featuring found objects, illustrations and moving image. Charis, together with Hybrid, will be conducting &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/08/as-we-dream/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/misc/" rel="tag">Misc</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/as-we-dream/" rel="tag">as we dream</a>, <a href="http://www.createdinbirmingham.com/tag/charis-mcnelvin/" rel="tag">charis mcnelvin</a>, <a href="http://www.createdinbirmingham.com/tag/handsworth/" rel="tag">handsworth</a>, <a href="http://www.createdinbirmingham.com/tag/hybrid-consulting/" rel="tag">hybrid consulting</a>, <a href="http://www.createdinbirmingham.com/tag/inhabit/" rel="tag">Inhabit</a>, <a href="http://www.createdinbirmingham.com/tag/vacant-spaces/" rel="tag">vacant spaces</a>, <a href="http://www.createdinbirmingham.com/tag/vibrant-places/" rel="tag">vibrant places</a></span>		
+</div></footer></div></article><article id="post-8398" class="entry post publish author-alexjones post-8398 format-standard category-festivals post_tag-flatpack-festival post_tag-invisible-cinema post_tag-mace post_tag-tony-garnett post_tag-vintage-mobile-cinema" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/08/highlights-for-2011-flatpack-festival/" rel="bookmark">Highlights for 2011 Flatpack Festival</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-08T08:42:50+00:00" itemprop="datePublished" title="Wednesday, December 8, 2010, 8:42 am">December 8, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>So news of next years Flatpack Festival has arrived, and it looks like there are a few treats in store. Along with their usual eclectic mix of film, animation, prize-winning documentaries, multi-media performance and interactive projections, they&#8217;re got a few novelties up their sleves. The promise of a 22 seater vintage mobile cinema, a Friday &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/08/highlights-for-2011-flatpack-festival/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/festivals/" rel="tag">Festivals</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/flatpack-festival/" rel="tag">flatpack festival</a>, <a href="http://www.createdinbirmingham.com/tag/invisible-cinema/" rel="tag">invisible cinema</a>, <a href="http://www.createdinbirmingham.com/tag/mace/" rel="tag">MACE</a>, <a href="http://www.createdinbirmingham.com/tag/tony-garnett/" rel="tag">tony garnett</a>, <a href="http://www.createdinbirmingham.com/tag/vintage-mobile-cinema/" rel="tag">vintage mobile cinema</a></span>		
+</div></footer></div></article><article id="post-8378" class="entry post publish author-alexjones post-8378 format-standard category-misc post_tag-a-christmas-bazaar post_tag-harborne post_tag-white-horse" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2010/12/07/white-horse-present-a-christmas-bazaar-2/" rel="bookmark">White Horse present A Christmas Bazaar 2</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2010-12-07T12:44:52+00:00" itemprop="datePublished" title="Tuesday, December 7, 2010, 12:44 pm">December 7, 2010</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/alexjones/" title="Posts by Alex Jones" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Alex Jones</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>White Horse Harborne are holding their second Christmas Bazaar on Thursday 9 December. They&#8217;re giving visitors the delight of picking up some locally produced gifts throughout the day and into the night, starting at 12 noon on to 11pm. They&#8217;ll have an array of artwork, photography, craft, fashion and jewellery, along with a Christmas BBQ &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2010/12/07/white-horse-present-a-christmas-bazaar-2/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/misc/" rel="tag">Misc</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/a-christmas-bazaar/" rel="tag">a christmas bazaar</a>, <a href="http://www.createdinbirmingham.com/tag/harborne/" rel="tag">harborne</a>, <a href="http://www.createdinbirmingham.com/tag/white-horse/" rel="tag">white horse</a></span>		
+</div></footer></div></article>	<nav role="navigation" id="nav-below" class="navigation  paging-navigation">
+
+	
+		<nav class="pagination loop-pagination"><a class="prev page-numbers" href="http://www.createdinbirmingham.com/page/147/">&laquo; Previous</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/'>1</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/2/'>2</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/3/'>3</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/4/'>4</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/5/'>5</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/144/'>144</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/145/'>145</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/146/'>146</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/147/'>147</a>
+<span class='page-numbers current'>148</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/149/'>149</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/150/'>150</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/151/'>151</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/152/'>152</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/478/'>478</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/479/'>479</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/480/'>480</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/481/'>481</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/482/'>482</a>
+<a class="next page-numbers" href="http://www.createdinbirmingham.com/page/149/">Next &raquo;</a></nav>
+	
+	</nav><!-- #nav-below -->
+	</main><!-- .content -->
+			
+	<aside id="sidebar" class="sidebar sidebar-primary widget-area" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">	
+				<section id="search-2" class="widget widget-1 even widget-first widget_search"><div class="widget-wrap"><h4 class="widget-title">Search CiB</h4><form role="search" method="get" class="search-form" action="http://www.createdinbirmingham.com/">	
+	<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:">	<input type="submit" class="search-submit" value="Search">
+</form></div></section>		<section id="recent-posts-4" class="widget widget-2 odd widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title">Recent posts:</h4>		<ul>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/09/05/homegrown-home-waifs-strays/">Homegrown: Home for Waifs and Strays</a>
+							<span class="post-date">September 5, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/08/16/pokemon-go-good-pokemon-go-home/">Pokémon Go For Good &#038; Pokémon Go Home!</a>
+							<span class="post-date">August 16, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/25/torcher-chamber-arkestra/">Torcher Chamber Arkestra</a>
+							<span class="post-date">July 25, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/22/jq-festival-open-studios-weekend/">JQ Festival and Open Studios &#8211; this weekend</a>
+							<span class="post-date">July 22, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/22/summer-in-southside/">Summer in Southside</a>
+							<span class="post-date">July 22, 2016</span>
+						</li>
+				</ul>
+		</div></section>		<section id="categories-302212611" class="widget widget-3 even widget_categories"><div class="widget-wrap"><h4 class="widget-title">Subjects:</h4><label class="screen-reader-text" for="cat">Subjects:</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="35">Animation</option>
+	<option class="level-0" value="26">Architecture</option>
+	<option class="level-0" value="28">CiB news</option>
+	<option class="level-0" value="1731">CiB Projects</option>
+	<option class="level-0" value="1991">CiB Shop</option>
+	<option class="level-0" value="2296">CiBmail</option>
+	<option class="level-0" value="63">Collective Memories</option>
+	<option class="level-0" value="68">Competitions</option>
+	<option class="level-0" value="36">Crafts</option>
+	<option class="level-0" value="4">Creative</option>
+	<option class="level-0" value="29">Dance</option>
+	<option class="level-0" value="5233">Digital</option>
+	<option class="level-0" value="5280">Exhibition</option>
+	<option class="level-0" value="5">Fashion</option>
+	<option class="level-0" value="49">Festivals</option>
+	<option class="level-0" value="8">Film</option>
+	<option class="level-0" value="33">Illustration</option>
+	<option class="level-0" value="13">Interviews</option>
+	<option class="level-0" value="59">Links</option>
+	<option class="level-0" value="9">Literature</option>
+	<option class="level-0" value="1">Misc</option>
+	<option class="level-0" value="2">Music</option>
+	<option class="level-0" value="19">Performing Arts</option>
+	<option class="level-0" value="16">Photography</option>
+	<option class="level-0" value="5232">Talks/meet-ups</option>
+	<option class="level-0" value="27">Theatre</option>
+	<option class="level-0" value="3">Visual Arts</option>
+	<option class="level-0" value="5126">Welcome to Birmingham</option>
+	<option class="level-0" value="66">Year in Review</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://www.createdinbirmingham.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div></section><section id="text-419000939" class="widget widget-4 odd widget-last widget_text"><div class="widget-wrap"><h4 class="widget-title">Reading list:</h4>			<div class="textwidget"><big>
+<a href="http://www.tpwestmidlands.org.uk/">Turning Point West Midlands</a><br>
+<a href="http://newartwm.org/news/">New Art West Midlands</a><br>
+<a href="http://midpoint.org.uk/">Mid*point</a><br>
+<a href="http://www.weareeastside.com/">We Are Eastside</a><br>
+<a href="http://www.brumnotes.com/news/">Brum Notes</a><br>
+<a href="http://areamagazine.wordpress.com/">Area Guide</a><br>
+<a href="http://www.birminghamfavourites.co.uk/category/culture-entertainment-faves/">Birmingham Favourites</a><br>
+<a href="http://digbeth.org/">Digbeth is Good</a><br>
+<a href="http://polaroidsandpolarbears.co.uk/">Polaroids and Polarbears</a><br>
+<a href="http://ichoosebirmingham.com/">I CHOOSE Birmingham</a><br>
+<a href="http://birminghamartmap.org/">Birmingham Art Map</a></div>
+		</div></section>		  	</aside><!-- .sidebar -->
+</div>	</div><!-- .site-inner -->
+	<footer id="footer" class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="footer-content footer-insert"><p class="copyright">Copyright &#169; 2019 .</p>
+
+<p class="credit"><a class="child-link" href="http://themehit.com/lifestyle-minimalist-wordpress-theme" title="Lifestyle WordPress Theme">Lifestyle</a> WordPress Theme by themehit.com</p></div></div></footer><!-- .site-footer --></div><!-- .site-container -->
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"1","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"0","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/next.gif","jqlb_previous_button_image":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1'></script>
+</body>
+</html>

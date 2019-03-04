@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Created in Birmingham - arts, culture and creativity</title>
+
+	  <meta name="viewport" content="width=device-width" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Linking up Birmingham&#039;s artistic and creative community"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.createdinbirmingham.com/page/124/" />
+<link rel="prev" href="http://www.createdinbirmingham.com/page/123/" />
+<link rel="next" href="http://www.createdinbirmingham.com/page/125/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Created in Birmingham - arts, culture and creativity" />
+<meta property="og:description" content="Linking up Birmingham&#039;s artistic and creative community" />
+<meta property="og:url" content="http://www.createdinbirmingham.com/page/124/" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.createdinbirmingham.com\/","name":"","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.createdinbirmingham.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://www.createdinbirmingham.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://www.createdinbirmingham.com/comments/feed/" />
+<link rel="pingback" href="http://www.createdinbirmingham.com/xmlrpc.php" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-lightbox-2.min.css-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='omega-style-css'  href='http://www.createdinbirmingham.com/wp-content/themes/lifestyle/style.css?ver=53ecaac7b5089c977c33c8249976dbba' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-main-css'  href='http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=2.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-custom-css'  href='http://www.createdinbirmingham.com/wp-content/uploads/master-slider/custom.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/themes/lifestyle/js/tinynav.js?ver=53ecaac7b5089c977c33c8249976dbba'></script>
+<link rel='https://api.w.org/' href='http://www.createdinbirmingham.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.createdinbirmingham.com/xmlrpc.php?rsd" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2292119-9']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script>var ms_grabbing_curosr = 'http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'http://www.createdinbirmingham.com/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 2.7.1 - Responsive Touch Image Slider | www.avt.li/msf" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:"4958f2a7-30e6-43bc-b6d4-d1b8fee52e13"});</script><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.createdinbirmingham.com/?wordfence_logHuman=1&hid=F7BB95565A23FC5CEB3A84960F86BDF3');
+</script>	<!--[if lt IE 9]>
+	<script src="http://www.createdinbirmingham.com/wp-content/themes/omega/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+<style type="text/css" id="custom-colors-css">h1.site-title a, .site-description, .entry-meta { color: #232323; } .tinynav, input[type="button"], input[type="reset"], input[type="submit"] { background-color: #232323; } .site-inner .entry-meta a, .site-inner .entry-content a, .site-inner .sidebar a { color: #858585; }</style>
+
+<style type="text/css" id="custom-css"></style>
+<link rel="icon" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.createdinbirmingham.com/wp-content/uploads/cropped-CiB-Google-copy-270x270.jpg" />
+</head>
+<body class="wordpress ltr child-theme y2019 m03 d04 h10 monday logged-out custom-header plural home blog paged paged-124 _masterslider _ms_version_2.7.1 group-blog custom-colors" dir="ltr" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="site-container">
+	<header id="header" class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"></div></div></header><!-- .site-header --><nav id="navigation" class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">	
+	<div class="wrap"><a href="#" id="menu-icon" class="menu-icon"><span></span></a><ul id="menu-2013-menu" class="menu omega-nav-menu menu-primary"><li id="menu-item-19524" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home first menu-item-19524"><a href="http://www.createdinbirmingham.com">Home</a></li>
+<li id="menu-item-15908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15908"><a href="http://www.createdinbirmingham.com/about/">About</a></li>
+<li id="menu-item-15907" class="menu-item menu-item-type-post_type menu-item-object-page last menu-item-15907"><a href="http://www.createdinbirmingham.com/contact/">Contact</a></li>
+</ul></div></nav><!-- .nav-primary -->	<div class="banner">
+		<div class="wrap">
+			<img class="header-image" src="http://www.createdinbirmingham.com/wp-content/uploads/2015-09-28-CiB-web-banner2.png" alt="" />		</div><!-- .wrap -->
+  	</div><!-- .banner -->
+	<div class="site-inner">
+		<div class="wrap"><main class="content" id="content" role="main" itemprop="mainEntityOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+	<article id="post-9757" class="entry post publish author-chrisunitt post-9757 format-standard category-illustration post_tag-moyma post_tag-the-adventures-of-p-chiddy" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/05/12/the-adventures-of-p-chiddy/" rel="bookmark">The Adventures of P Chiddy</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-05-12T09:30:52+00:00" itemprop="datePublished" title="Thursday, May 12, 2011, 9:30 am">May 12, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>I&#8217;ve just been catching up on what Moyma&#8216;s been doing. The answer seems to be a new series called The Adventures of P Chiddy. Here&#8217;s the latest: This piece is a paradoxical view on engagement, the dialectical infringement of time and its juxtaposition of that paradox within a social time enhanced framework…or maybe its a &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/05/12/the-adventures-of-p-chiddy/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/illustration/" rel="tag">Illustration</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/moyma/" rel="tag">moyma</a>, <a href="http://www.createdinbirmingham.com/tag/the-adventures-of-p-chiddy/" rel="tag">the adventures of p chiddy</a></span>		
+</div></footer></div></article><article id="post-9754" class="entry post publish author-chrisunitt post-9754 format-standard category-music category-performing-arts post_tag-producers-forum post_tag-screenwriters-forum post_tag-writing-west-midlands" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/05/10/producers-screenwriters-writers/" rel="bookmark">Producers + screenwriters + writers</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-05-10T14:52:22+00:00" itemprop="datePublished" title="Tuesday, May 10, 2011, 2:52 pm">May 10, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>This month The Producers’ Forum is partnering with Screenwriters Forum and Writing West Midlands to run a speed dating session between writers and producers. 25 May. More info and registration here. Regional organisations getting together to introduce their members to each other is a VERY SENSIBLE THING. It&#8217;s actually kinda baffling that this doesn&#8217;t happen more &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/05/10/producers-screenwriters-writers/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/music/" rel="tag">Music</a>, <a href="http://www.createdinbirmingham.com/performing-arts/" rel="tag">Performing Arts</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/producers-forum/" rel="tag">Producers Forum</a>, <a href="http://www.createdinbirmingham.com/tag/screenwriters-forum/" rel="tag">screenwriters forum</a>, <a href="http://www.createdinbirmingham.com/tag/writing-west-midlands/" rel="tag">writing west midlands</a></span>		
+</div></footer></div></article><article id="post-9750" class="entry post publish author-chrisunitt post-9750 format-standard category-dance post_tag-dancedub post_tag-new-art-gallery-walsall post_tag-sampad" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/05/10/dancing-at-new-art-gallery-walsall/" rel="bookmark">Dancing at New Art Gallery Walsall</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-05-10T08:07:16+00:00" itemprop="datePublished" title="Tuesday, May 10, 2011, 8:07 am">May 10, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>sampad have done a pretty nice video to round off their sampad dancedub project, (although the bit at 1.50 looked like an accident waiting to happen). From sampad&#8217;s blog: On 27 March, over 70 dancers of all ages, styles and levels of experience descended on The New Art Gallery Walsall for sampad dancedub, a new &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/05/10/dancing-at-new-art-gallery-walsall/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/dance/" rel="tag">Dance</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/dancedub/" rel="tag">dancedub</a>, <a href="http://www.createdinbirmingham.com/tag/new-art-gallery-walsall/" rel="tag">new art gallery walsall</a>, <a href="http://www.createdinbirmingham.com/tag/sampad/" rel="tag">sampad</a></span>		
+</div></footer></div></article><article id="post-9748" class="entry post publish author-chrisunitt post-9748 format-standard category-linklog post_tag-adrian-goldberg post_tag-clare-short post_tag-helga-henry post_tag-independent post_tag-khalid-mahmood post_tag-multipack post_tag-si-jobling post_tag-sion-simon post_tag-trevor-beattie" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/05/09/ups-and-downs/" rel="bookmark">Ups and downs</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-05-09T17:56:04+00:00" itemprop="datePublished" title="Monday, May 9, 2011, 5:56 pm">May 9, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>It&#8217;s been a while since the last (public) handwringing over why Birmingham&#8217;s reputation suffers nationally. Thankfully, the Independent has steeped in with an article doing just that (as pointed out by Neil Holland on Twitter last night). Link: Brum deal: A second city with a third-rate reputation They point out that there are some great &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/05/09/ups-and-downs/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/linklog/" rel="tag">Links</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/adrian-goldberg/" rel="tag">Adrian Goldberg</a>, <a href="http://www.createdinbirmingham.com/tag/clare-short/" rel="tag">Clare Short</a>, <a href="http://www.createdinbirmingham.com/tag/helga-henry/" rel="tag">helga henry</a>, <a href="http://www.createdinbirmingham.com/tag/independent/" rel="tag">independent</a>, <a href="http://www.createdinbirmingham.com/tag/khalid-mahmood/" rel="tag">Khalid Mahmood</a>, <a href="http://www.createdinbirmingham.com/tag/multipack/" rel="tag">multipack</a>, <a href="http://www.createdinbirmingham.com/tag/si-jobling/" rel="tag">si jobling</a>, <a href="http://www.createdinbirmingham.com/tag/sion-simon/" rel="tag">sion simon</a>, <a href="http://www.createdinbirmingham.com/tag/trevor-beattie/" rel="tag">Trevor Beattie</a></span>		
+</div></footer></div></article><article id="post-9685" class="entry post publish author-chrisunitt post-9685 format-standard category-linklog post_tag-art-heritage-quarterly post_tag-bite-down-on-that-gumshield-son post_tag-blink-animation post_tag-colourful-world-of-concrete post_tag-creative-england post_tag-digital-birmingham post_tag-edgelands post_tag-emily-warner post_tag-frame post_tag-glatze post_tag-ian-francis post_tag-jonny-costello post_tag-nec post_tag-pick-your-weapon post_tag-sounds-of-the-city post_tag-suzie-norton post_tag-tempting-rosie post_tag-vinny-and-the-curse post_tag-we-are-birmingham" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/04/29/cib-links-for-29-april-2011/" rel="bookmark">CiB links for 29 April 2011</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-04-29T10:02:25+00:00" itemprop="datePublished" title="Friday, April 29, 2011, 10:02 am">April 29, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>Sounds Of The City charity CDs | We Are Birmingham &#8220;Vicinity Records presents Sounds of The City – a showcase compilation series celebrating contemporary music from select cities around the globe&#8221;. With Birmingham represented by Vinny and the Curse, Tempting Rosie, Pick Your Weapon and Glatze. Proceeds go to charity and you can grab a &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/04/29/cib-links-for-29-april-2011/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/linklog/" rel="tag">Links</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/art-heritage-quarterly/" rel="tag">art &amp; heritage quarterly</a>, <a href="http://www.createdinbirmingham.com/tag/bite-down-on-that-gumshield-son/" rel="tag">bite down on that gumshield son</a>, <a href="http://www.createdinbirmingham.com/tag/blink-animation/" rel="tag">blink animation</a>, <a href="http://www.createdinbirmingham.com/tag/colourful-world-of-concrete/" rel="tag">colourful world of concrete</a>, <a href="http://www.createdinbirmingham.com/tag/creative-england/" rel="tag">creative england</a>, <a href="http://www.createdinbirmingham.com/tag/digital-birmingham/" rel="tag">Digital Birmingham</a>, <a href="http://www.createdinbirmingham.com/tag/edgelands/" rel="tag">edgelands</a>, <a href="http://www.createdinbirmingham.com/tag/emily-warner/" rel="tag">emily warner</a>, <a href="http://www.createdinbirmingham.com/tag/frame/" rel="tag">frame</a>, <a href="http://www.createdinbirmingham.com/tag/glatze/" rel="tag">glatze</a>, <a href="http://www.createdinbirmingham.com/tag/ian-francis/" rel="tag">ian francis</a>, <a href="http://www.createdinbirmingham.com/tag/jonny-costello/" rel="tag">jonny costello</a>, <a href="http://www.createdinbirmingham.com/tag/nec/" rel="tag">nec</a>, <a href="http://www.createdinbirmingham.com/tag/pick-your-weapon/" rel="tag">Pick Your Weapon</a>, <a href="http://www.createdinbirmingham.com/tag/sounds-of-the-city/" rel="tag">sounds of the city</a>, <a href="http://www.createdinbirmingham.com/tag/suzie-norton/" rel="tag">suzie norton</a>, <a href="http://www.createdinbirmingham.com/tag/tempting-rosie/" rel="tag">Tempting Rosie</a>, <a href="http://www.createdinbirmingham.com/tag/vinny-and-the-curse/" rel="tag">vinny and the curse</a>, <a href="http://www.createdinbirmingham.com/tag/we-are-birmingham/" rel="tag">we are birmingham</a></span>		
+</div></footer></div></article><article id="post-9731" class="entry post publish author-chrisunitt post-9731 format-standard category-music post_tag-birmingham-jazz post_tag-capsule post_tag-digbeth post_tag-hare-and-hounds post_tag-live-brum post_tag-lizzy-parks post_tag-makeit-zone post_tag-pst post_tag-symphony-hall post_tag-thsh post_tag-wedlock" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/04/29/flyers-for-things-happening-this-weekend/" rel="bookmark">Flyers for things happening this weekend</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-04-29T05:21:46+00:00" itemprop="datePublished" title="Friday, April 29, 2011, 5:21 am">April 29, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>Gor blimey, it&#8217;s another one of those really long weekends. Here are some things you might want to consider filling all that time with. For starters, I haven&#8217;t got a flyer for this one but Lizzy Parks is playing in the Symphony Hall foyers today (Friday) from 5.30pm to 7pm and it&#8217;s free. Info on &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/04/29/flyers-for-things-happening-this-weekend/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/music/" rel="tag">Music</a></span>	<span class="entry-terms post_tag" itemprop="keywords">Tagged: <a href="http://www.createdinbirmingham.com/tag/birmingham-jazz/" rel="tag">birmingham jazz</a>, <a href="http://www.createdinbirmingham.com/tag/capsule/" rel="tag">capsule</a>, <a href="http://www.createdinbirmingham.com/tag/digbeth/" rel="tag">digbeth</a>, <a href="http://www.createdinbirmingham.com/tag/hare-and-hounds/" rel="tag">hare and hounds</a>, <a href="http://www.createdinbirmingham.com/tag/live-brum/" rel="tag">live brum</a>, <a href="http://www.createdinbirmingham.com/tag/lizzy-parks/" rel="tag">lizzy parks</a>, <a href="http://www.createdinbirmingham.com/tag/makeit-zone/" rel="tag">makeit zone</a>, <a href="http://www.createdinbirmingham.com/tag/pst/" rel="tag">pst</a>, <a href="http://www.createdinbirmingham.com/tag/symphony-hall/" rel="tag">symphony hall</a>, <a href="http://www.createdinbirmingham.com/tag/thsh/" rel="tag">THSH</a>, <a href="http://www.createdinbirmingham.com/tag/wedlock/" rel="tag">wedlock</a></span>		
+</div></footer></div></article><article id="post-9724" class="entry post publish author-chrisunitt post-9724 format-standard category-photography" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/04/26/4am-project-brutal/" rel="bookmark">4am Project Brutal</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-04-26T10:11:07+00:00" itemprop="datePublished" title="Tuesday, April 26, 2011, 10:11 am">April 26, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>Karen Strunks&#8217; 4am Project had another outing over the weekend, this time teaming up with Project Brutal to explore Birmingham Central Library. (Photo by Nick Lockey) You can browse through all the photos that have been uploaded to Flickr. Mr Underwood did things slightly differently, going in to do some sound recordings: Firstly, a library &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/04/26/4am-project-brutal/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/photography/" rel="tag">Photography</a></span>			
+</div></footer></div></article><article id="post-9720" class="entry post publish author-chrisunitt post-9720 format-standard category-cib-news" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><div class="entry-wrap">
+	<header class="entry-header">	<h2 class="entry-title" itemprop="headline"><a href="http://www.createdinbirmingham.com/2011/04/25/about-all-those-guest-posts/" rel="bookmark">About all those guest posts</a></h2>
+<div class="entry-meta">
+	<time class="entry-time" datetime="2011-04-25T17:03:38+00:00" itemprop="datePublished" title="Monday, April 25, 2011, 5:03 pm">April 25, 2011</time>
+	<span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">by <a href="http://www.createdinbirmingham.com/author/chrisunitt/" title="Posts by Chris Unitt" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Chris Unitt</span></a></span>	
+		</div><!-- .entry-meta --></header><!-- .entry-header -->	
+		<div class="entry-summary" itemprop="description">
+	<p>I&#8217;ve been meaning to write something up about all those guest posts that we had on CiB throughout March. I thought it went very well. Alex was organising all of that so I had no real idea of what was going to go up on the site each day. By and large I was pretty &#8230; <span class="more"><a class="more-link" href="http://www.createdinbirmingham.com/2011/04/25/about-all-those-guest-posts/">[Read more&#8230;]</a></span></p>
+	
+		</div>
+	<footer class="entry-footer"><div class="entry-meta">
+	<span class="entry-terms category" itemprop="articleSection">Posted in: <a href="http://www.createdinbirmingham.com/cib-news/" rel="tag">CiB news</a></span>			
+</div></footer></div></article>	<nav role="navigation" id="nav-below" class="navigation  paging-navigation">
+
+	
+		<nav class="pagination loop-pagination"><a class="prev page-numbers" href="http://www.createdinbirmingham.com/page/123/">&laquo; Previous</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/'>1</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/2/'>2</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/3/'>3</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/4/'>4</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/5/'>5</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/120/'>120</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/121/'>121</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/122/'>122</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/123/'>123</a>
+<span class='page-numbers current'>124</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/125/'>125</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/126/'>126</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/127/'>127</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/128/'>128</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/478/'>478</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/479/'>479</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/480/'>480</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/481/'>481</a>
+<a class='page-numbers' href='http://www.createdinbirmingham.com/page/482/'>482</a>
+<a class="next page-numbers" href="http://www.createdinbirmingham.com/page/125/">Next &raquo;</a></nav>
+	
+	</nav><!-- #nav-below -->
+	</main><!-- .content -->
+			
+	<aside id="sidebar" class="sidebar sidebar-primary widget-area" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">	
+				<section id="search-2" class="widget widget-1 even widget-first widget_search"><div class="widget-wrap"><h4 class="widget-title">Search CiB</h4><form role="search" method="get" class="search-form" action="http://www.createdinbirmingham.com/">	
+	<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:">	<input type="submit" class="search-submit" value="Search">
+</form></div></section>		<section id="recent-posts-4" class="widget widget-2 odd widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title">Recent posts:</h4>		<ul>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/09/05/homegrown-home-waifs-strays/">Homegrown: Home for Waifs and Strays</a>
+							<span class="post-date">September 5, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/08/16/pokemon-go-good-pokemon-go-home/">Pokémon Go For Good &#038; Pokémon Go Home!</a>
+							<span class="post-date">August 16, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/25/torcher-chamber-arkestra/">Torcher Chamber Arkestra</a>
+							<span class="post-date">July 25, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/22/jq-festival-open-studios-weekend/">JQ Festival and Open Studios &#8211; this weekend</a>
+							<span class="post-date">July 22, 2016</span>
+						</li>
+					<li>
+				<a href="http://www.createdinbirmingham.com/2016/07/22/summer-in-southside/">Summer in Southside</a>
+							<span class="post-date">July 22, 2016</span>
+						</li>
+				</ul>
+		</div></section>		<section id="categories-302212611" class="widget widget-3 even widget_categories"><div class="widget-wrap"><h4 class="widget-title">Subjects:</h4><label class="screen-reader-text" for="cat">Subjects:</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="35">Animation</option>
+	<option class="level-0" value="26">Architecture</option>
+	<option class="level-0" value="28">CiB news</option>
+	<option class="level-0" value="1731">CiB Projects</option>
+	<option class="level-0" value="1991">CiB Shop</option>
+	<option class="level-0" value="2296">CiBmail</option>
+	<option class="level-0" value="63">Collective Memories</option>
+	<option class="level-0" value="68">Competitions</option>
+	<option class="level-0" value="36">Crafts</option>
+	<option class="level-0" value="4">Creative</option>
+	<option class="level-0" value="29">Dance</option>
+	<option class="level-0" value="5233">Digital</option>
+	<option class="level-0" value="5280">Exhibition</option>
+	<option class="level-0" value="5">Fashion</option>
+	<option class="level-0" value="49">Festivals</option>
+	<option class="level-0" value="8">Film</option>
+	<option class="level-0" value="33">Illustration</option>
+	<option class="level-0" value="13">Interviews</option>
+	<option class="level-0" value="59">Links</option>
+	<option class="level-0" value="9">Literature</option>
+	<option class="level-0" value="1">Misc</option>
+	<option class="level-0" value="2">Music</option>
+	<option class="level-0" value="19">Performing Arts</option>
+	<option class="level-0" value="16">Photography</option>
+	<option class="level-0" value="5232">Talks/meet-ups</option>
+	<option class="level-0" value="27">Theatre</option>
+	<option class="level-0" value="3">Visual Arts</option>
+	<option class="level-0" value="5126">Welcome to Birmingham</option>
+	<option class="level-0" value="66">Year in Review</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://www.createdinbirmingham.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div></section><section id="text-419000939" class="widget widget-4 odd widget-last widget_text"><div class="widget-wrap"><h4 class="widget-title">Reading list:</h4>			<div class="textwidget"><big>
+<a href="http://www.tpwestmidlands.org.uk/">Turning Point West Midlands</a><br>
+<a href="http://newartwm.org/news/">New Art West Midlands</a><br>
+<a href="http://midpoint.org.uk/">Mid*point</a><br>
+<a href="http://www.weareeastside.com/">We Are Eastside</a><br>
+<a href="http://www.brumnotes.com/news/">Brum Notes</a><br>
+<a href="http://areamagazine.wordpress.com/">Area Guide</a><br>
+<a href="http://www.birminghamfavourites.co.uk/category/culture-entertainment-faves/">Birmingham Favourites</a><br>
+<a href="http://digbeth.org/">Digbeth is Good</a><br>
+<a href="http://polaroidsandpolarbears.co.uk/">Polaroids and Polarbears</a><br>
+<a href="http://ichoosebirmingham.com/">I CHOOSE Birmingham</a><br>
+<a href="http://birminghamartmap.org/">Birmingham Art Map</a></div>
+		</div></section>		  	</aside><!-- .sidebar -->
+</div>	</div><!-- .site-inner -->
+	<footer id="footer" class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="footer-content footer-insert"><p class="copyright">Copyright &#169; 2019 .</p>
+
+<p class="credit"><a class="child-link" href="http://themehit.com/lifestyle-minimalist-wordpress-theme" title="Lifestyle WordPress Theme">Lifestyle</a> WordPress Theme by themehit.com</p></div></div></footer><!-- .site-footer --></div><!-- .site-container -->
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"1","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"0","linkTarget":"_self","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/next.gif","jqlb_previous_button_image":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"http:\/\/www.createdinbirmingham.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.createdinbirmingham.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1'></script>
+</body>
+</html>
